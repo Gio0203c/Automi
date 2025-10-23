@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -184,10 +185,10 @@
   },
   "active": "1600c260175c00d8",
   "lastOpenFiles": [
-    "Lezioni/2025-10-15.md",
-    "Sbobine IA/2025-09-24.md",
-    "Lezioni/2025-10-17.md",
     "Sbobine IA/2025-10-17.md",
+    "Lezioni/2025-10-15.md",
+    "Lezioni/2025-10-17.md",
+    "Sbobine IA/2025-09-24.md",
     "Sbobine IA/2025-09-26.md",
     "Sbobine Masticate/2025-09-24.md",
     "Immagini/lez07_06.drawio.svg",
