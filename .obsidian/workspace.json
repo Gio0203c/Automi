@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sbobine Masticate/2025-10-24.md",
+                "file": "Lezioni/2025-10-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "2025-10-17"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,32 +184,32 @@
   },
   "active": "1600c260175c00d8",
   "lastOpenFiles": [
-    "Sbobine Masticate/2025-10-22.md",
+    "Lezioni/2025-10-22.md",
+    "Lezioni/2025-10-24.md",
+    "Lezioni/2025-10-31.md",
+    "Lezioni/2025-10-10.md",
+    "Lezioni/2025-10-15.md",
+    "Lezioni/2025-10-17.md",
+    "Untitled.md",
+    "Lezioni/2025-10-29.md",
     "Sbobine Masticate/2025-10-24.md",
     "Sbobine Masticate/2025-10-29.md",
+    "Sbobine Masticate/2025-10-31.md",
+    "Sbobine Masticate/2025-10-22.md",
+    "Lezioni/2025-09-24.md",
+    "Sbobine Masticate/2025-09-24.md",
     "Sbobine IA/2025-10-24.md",
     "Sbobine IA/2025-10-29.md",
     "Sbobine Masticate/2025-10-15.md",
     "Sbobine Masticate/2025-10-17.md",
     "Sbobine IA/2025-10-22.md",
-    "Lezioni/2025-10-22.md",
-    "Lezioni/2025-10-24.md",
-    "Lezioni/2025-10-29.md",
-    "Lezioni/2025-10-31.md",
     "Sbobine IA/2025-10-17.md",
     "Sbobine IA/2025-10-31.md",
-    "Lezioni/2025-10-17.md",
-    "Sbobine Masticate/2025-10-31.md",
     "Sbobine IA/2025-10-15.md",
-    "Lezioni/2025-10-15.md",
     "Sbobine Masticate/2025-10-10.md",
     "Lezioni/2025-10-08.md",
     "Sbobine IA/2025-10-03.md",
     "Sbobine Masticate/2025-10-01.md",
-    "Sbobine IA/2025-10-01.md",
-    "Lezioni/2025-09-26.md",
-    "Sbobine Masticate/2025-09-26.md",
-    "Lezioni/2025-09-24.md",
     "image.png",
     "Immagini/lez07_06.drawio.svg",
     "draw.io/lez07_06.drawio",
