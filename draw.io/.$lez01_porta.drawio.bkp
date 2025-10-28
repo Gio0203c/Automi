@@ -46,6 +46,12 @@
         <mxCell id="ZYRl70tjymZj21ChTwSi-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;La porta apre&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZYRl70tjymZj21ChTwSi-12" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;shadow=0;strokeColor=light-dark(#000000,transparent);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
