@@ -11,12 +11,14 @@
             "id": "1600c260175c00d8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Immagini/lez05_09.drawio.svg"
+                "file": "Lezioni/2025-10-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "lez05_09.drawio"
+              "icon": "lucide-file",
+              "title": "2025-10-15"
             }
           }
         ]
@@ -182,8 +184,19 @@
   },
   "active": "1600c260175c00d8",
   "lastOpenFiles": [
-    "Immagini/lez05_08.drawio.svg",
+    "Lezioni/2025-10-17.md",
+    "Lezioni/2025-10-10.md",
+    "Lezioni/2025-10-08.md",
+    "Lezioni/2025-10-01.md",
+    "Sbobine Masticate/2025-10-01.md",
+    "Lezioni/2025-10-15.md",
+    "Lezioni/2025-09-24.md",
+    "Lezioni/2025-10-22.md",
+    "Lezioni/2025-10-29.md",
+    "Lezioni/2025-10-24.md",
+    "Sbobine IA/2025-09-24.md",
     "Immagini/lez05_09.drawio.svg",
+    "Immagini/lez05_08.drawio.svg",
     "Immagini/lez05_10.drawio.svg",
     "Immagini/lez06_01.drawio.svg",
     "Immagini/lez06_02.drawio.svg",
@@ -193,20 +206,11 @@
     "Immagini/lez07_04.drawio.svg",
     "Immagini/lez07_05.drawio.svg",
     "Untitled.md",
-    "Immagini/lez07_06.drawio.svg",
-    "Lezioni/2025-10-08.md",
-    "Lezioni/2025-10-10.md",
-    "Lezioni/2025-10-22.md",
-    "Lezioni/2025-10-24.md",
-    "Lezioni/2025-10-17.md",
     "Lezioni/2025-10-31.md",
-    "Lezioni/2025-10-15.md",
-    "Lezioni/2025-10-29.md",
     "Sbobine Masticate/2025-10-24.md",
     "Sbobine Masticate/2025-10-29.md",
     "Sbobine Masticate/2025-10-31.md",
     "Sbobine Masticate/2025-10-22.md",
-    "Lezioni/2025-09-24.md",
     "Sbobine Masticate/2025-09-24.md",
     "Sbobine IA/2025-10-24.md",
     "Sbobine IA/2025-10-29.md",
@@ -216,8 +220,6 @@
     "Sbobine IA/2025-10-17.md",
     "Sbobine IA/2025-10-31.md",
     "Sbobine IA/2025-10-15.md",
-    "Sbobine Masticate/2025-10-10.md",
-    "Sbobine IA/2025-10-03.md",
     "draw.io/lez07_06.drawio",
     "draw.io/lez07_05.drawio",
     "draw.io/lez07_04.drawio",
