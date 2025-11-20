@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nota",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1600c260175c00d8",
+  "active": "c7b304610d982e50",
   "lastOpenFiles": [
     "Immagini/lez09_08.drawio.svg",
     "Lezioni/2025-10-24.md",
