@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -183,7 +184,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7b304610d982e50",
+  "active": "1600c260175c00d8",
   "lastOpenFiles": [
     "Immagini/lez09_08.drawio.svg",
     "Lezioni/2025-10-24.md",
