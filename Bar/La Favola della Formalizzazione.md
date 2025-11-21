@@ -63,4 +63,3 @@ In sintesi, Gödel riuscì a dimostrare che:
 Poco dopo, **Alan Turing** dimostrò inoltre che anche la decidibilità è impossibile: per ogni problema matematico non esiste una procedura meccanica che possa risolverlo.
 
 Il progetto di Hilbert, nella sua forma originale, era finito.
-
