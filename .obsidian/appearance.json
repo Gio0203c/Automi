@@ -3,5 +3,8 @@
   "cssTheme": "Obsidianite",
   "baseFontSize": 19,
   "baseFontSizeAction": true,
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "custom-callouts"
+  ]
 }

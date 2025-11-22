@@ -1,0 +1,10 @@
+.callout[data-callout='teorema'] {
+  --callout-color: 5, 217, 255;
+  --callout-icon: book-open-text;;
+}
+
+.callout[data-callout='code'] {
+  --callout-color: 67, 56, 202;
+  --callout-icon: lucide-code;
+}
+

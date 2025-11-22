@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07b7ee0b5e904993",
+        "id": "db9806c62e41f362",
         "type": "tabs",
         "children": [
           {
-            "id": "1600c260175c00d8",
+            "id": "d189d9e8433e8f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,16 +182,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1600c260175c00d8",
+  "active": "d189d9e8433e8f46",
   "lastOpenFiles": [
-    "Lezioni/2025-10-31.md",
-    "Lezioni/2025-11-07.md",
     "Lezioni/2025-10-15.md",
-    "Lezioni/2025-10-10.md",
     "Lezioni/2025-10-17.md",
     "Lezioni/2025-10-22.md",
-    "Lezioni/2025-10-24.md",
     "Lezioni/2025-10-29.md",
+    "Lezioni/2025-10-31.md",
+    "Lezioni/2025-11-07.md",
+    "Lezioni/2025-11-12.md",
+    "Lezioni/2025-11-14.md",
+    "Lezioni/2025-10-24.md",
+    "Lezioni/2025-10-10.md",
     "Sbobine IA/2025-10-15.md",
     "Sbobine IA/2025-10-17.md",
     "Sbobine IA/2025-11-14.md",
@@ -208,8 +210,6 @@
     "Sbobine Masticate/2025-10-29.md",
     "Sbobine Masticate/2025-10-31.md",
     "Sbobine Masticate/2025-10-10.md",
-    "Sbobine Masticate/2025-10-17.md",
-    "Lezioni/2025-11-12.md",
     "Bar",
     "Immagini/lez09_08.drawio.svg",
     "Immagini/lez09_09.drawio.svg",
