@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db9806c62e41f362",
+        "id": "e85fd6139fd1b6c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d189d9e8433e8f46",
+            "id": "11b1738e04bf0039",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -183,10 +182,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d189d9e8433e8f46",
+  "active": "11b1738e04bf0039",
   "lastOpenFiles": [
-    "Lezioni/2025-10-24.md",
+    "Lezioni/2025-10-17.md",
+    "Lezioni/2025-10-15.md",
+    "Lezioni/2025-10-10.md",
+    "Immagini/lez09_03.drawio.svg",
+    "Immagini/lez09_06.drawio.svg",
+    "draw.io/lez09_06.drawio",
+    "Immagini/lez09_02.drawio.svg",
+    "Immagini/lez09_01.drawio.svg",
+    "Immagini/lez09_04.drawio.svg",
+    "Immagini/lez09_05.drawio.svg",
+    "Immagini/lez09_07.drawio.svg",
+    "Immagini/lez09_08.drawio.svg",
+    "Immagini/lez09_09.drawio.svg",
+    "Lezioni/2025-10-22.md",
+    "Sbobine IA/2025-10-22.md",
     "Lezioni/2025-10-29.md",
+    "Lezioni/2025-10-24.md",
     "Sbobine Masticate/2025-10-03.md",
     "Sbobine Masticate/2025-10-08.md",
     "Sbobine Masticate/2025-10-10.md",
@@ -195,41 +209,25 @@
     "Sbobine Masticate/2025-10-24.md",
     "Sbobine Masticate/2025-10-29.md",
     "Sbobine Masticate/2025-10-31.md",
-    "Lezioni/2025-10-22.md",
-    "Sbobine IA/2025-10-22.md",
-    "Lezioni/2025-10-17.md",
-    "Lezioni/2025-10-15.md",
     "Lezioni/2025-10-31.md",
     "Lezioni/2025-11-07.md",
     "Lezioni/2025-11-12.md",
     "Lezioni/2025-11-14.md",
-    "Lezioni/2025-10-10.md",
     "Sbobine IA/2025-10-15.md",
     "Sbobine IA/2025-10-17.md",
     "Sbobine IA/2025-11-14.md",
     "Lezioni/2025-09-26.md",
     "Lezioni/2025-10-01.md",
     "Lezioni/2025-10-03.md",
-    "Lezioni/2025-10-08.md",
     "Bar",
-    "Immagini/lez09_08.drawio.svg",
-    "Immagini/lez09_09.drawio.svg",
-    "Immagini/lez09_07.drawio.svg",
     "draw.io/lez09_09.drawio",
-    "Immagini/lez09_05.drawio.svg",
     "draw.io/lez09_08.drawio",
     "draw.io/lez09_07.drawio",
     "draw.io/lez09_05.drawio",
-    "Immagini/lez09_04.drawio.svg",
     "draw.io/lez09_04.drawio",
-    "Immagini/lez09_03.drawio.svg",
     "draw.io/lez09_03.drawio",
-    "Immagini/lez09_02.drawio.svg",
     "draw.io/lez09_02.drawio",
-    "Immagini/lez09_01.drawio.svg",
     "draw.io/lez09_01.drawio",
-    "Untitled.base",
-    "Immagini/lez05_09.drawio.svg",
-    "Immagini/lez05_08.drawio.svg"
+    "Immagini/lez05_09.drawio.svg"
   ]
 }
