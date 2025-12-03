@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lezioni/2025-10-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-10-31"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-10-24.md",
+                "file": "Lezioni/2025-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "2025-11-07"
             }
           }
         ],
@@ -199,8 +199,12 @@
   },
   "active": "6cbd9731d53d679f",
   "lastOpenFiles": [
+    "Lezioni/2025-10-31.md",
     "Lezioni/2025-10-22.md",
     "Lezioni/2025-10-24.md",
+    "Lezioni/2025-10-29.md",
+    "Lezioni/2025-11-07.md",
+    "README.md",
     "Lezioni/2025-10-17.md",
     "Sbobine IA/2025-11-25.md",
     "Sbobine IA/2025-11-21.md",
@@ -221,10 +225,6 @@
     "Sbobine Masticate/2025-10-22.md",
     "Sbobine IA/2025-10-24.md",
     "Sbobine IA/2025-10-22.md",
-    "Sbobine IA/2025-11-28.md",
-    "Lezioni/2025-10-29.md",
-    "Lezioni/2025-11-28.md",
-    "Lezioni/2025-10-31.md",
     "draw.io/lez09_07.drawio.svg",
     "Immagini/lez09_03.drawio.svg",
     "Immagini/lez09_06.drawio.svg",
