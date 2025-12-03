@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "esperienza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,10 +200,10 @@
   "active": "6cbd9731d53d679f",
   "lastOpenFiles": [
     "Lezioni/2025-10-31.md",
-    "Lezioni/2025-10-22.md",
-    "Lezioni/2025-10-24.md",
     "Lezioni/2025-10-29.md",
     "Lezioni/2025-11-07.md",
+    "Lezioni/2025-10-22.md",
+    "Lezioni/2025-10-24.md",
     "README.md",
     "Lezioni/2025-10-17.md",
     "Sbobine IA/2025-11-25.md",
