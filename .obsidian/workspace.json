@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-11-21.md",
+                "file": "Sbobine IA/2025-11-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-21"
+              "title": "2025-11-28"
             }
           }
         ]
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,16 +183,18 @@
   },
   "active": "9bd45be536ab3e88",
   "lastOpenFiles": [
+    "2025-12-10.md",
+    "Sbobine IA/2025-11-28.md",
+    "Lezioni/2025-11-25.md",
+    "Lezioni/2025-11-21.md",
     "Lezioni/2025-11-19.md",
     "Lezioni/2025-11-14.md",
     "Lezioni/2025-11-12.md",
-    "Lezioni/2025-11-21.md",
     "Lezioni/2025-11-28.md",
     "Lezioni/2025-11-07.md",
     "Lezioni/2025-10-31.md",
     "Lezioni/2025-10-29.md",
     "Bar/La Favola della Formalizzazione.md",
-    "Lezioni/2025-11-25.md",
     "Untitled.md",
     "Lezioni/2025-10-22.md",
     "Lezioni/2025-10-24.md",
@@ -208,8 +209,6 @@
     "Sbobine IA/2025-11-14.md",
     "Sbobine Masticate/2025-11-12.md",
     "Sbobine IA/2025-11-12.md",
-    "Sbobine Masticate/2025-11-07.md",
-    "Sbobine IA/2025-11-07.md",
     "draw.io/lez09_07.drawio.svg",
     "Immagini/lez09_03.drawio.svg",
     "Immagini/lez09_06.drawio.svg",
