@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e7007713c53eaf8e",
+        "id": "853fcab4416a9060",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd45be536ab3e88",
+            "id": "c929cd32cfa86b5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sbobine IA/2025-12-12.md",
+                "file": "Lezioni/2025-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
-            }
-          },
-          {
-            "id": "fef55b401541f74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lezioni/2025-11-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-26"
+              "title": "2025-10-24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esperienza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -198,34 +182,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fef55b401541f74f",
+  "active": "c929cd32cfa86b5b",
   "lastOpenFiles": [
-    "Lezioni/2025-11-21.md",
-    "Lezioni/2025-11-19.md",
-    "Lezioni/2025-11-12.md",
-    "Lezioni/2025-11-14.md",
-    "Lezioni/2025-12-03.md",
-    "Lezioni/2025-11-26.md",
-    "Lezioni/2025-12-05.md",
-    "Lezioni/2025-12-10.md",
-    "Lezioni/2025-12-12.md",
-    "Sbobine IA/2025-12-05.md",
-    "Sbobine IA/2025-12-12.md",
-    "Sbobine IA/2025-12-10.md",
-    "Sbobine Masticate/2025-11-26.md",
+    "Lezioni/2025-10-22.md",
+    "Lezioni/2025-10-24.md",
+    "README.md",
     "Sbobine Masticate/2025-12-12.md",
     "Sbobine Masticate/2025-12-10.md",
     "Sbobine Masticate/2025-12-05.md",
-    "Sbobine Masticate/2025-11-21.md",
-    "Sbobine IA/2025-11-26.md",
     "Sbobine Masticate/2025-12-03.md",
+    "Sbobine Masticate/2025-11-26.md",
+    "Sbobine IA/2025-12-12.md",
+    "Sbobine IA/2025-12-10.md",
+    "Sbobine IA/2025-12-05.md",
     "Sbobine IA/2025-12-03.md",
+    "Sbobine IA/2025-11-26.md",
+    "Lezioni/2025-12-12.md",
+    "Lezioni/2025-12-10.md",
+    "Lezioni/2025-12-05.md",
+    "Lezioni/2025-12-03.md",
+    "Lezioni/2025-11-26.md",
+    "2025-12-05.md",
     "Lezioni/2025-11-28.md",
-    "Sbobine IA/2025-11-28.md",
-    "Sbobine Masticate/2025-11-28.md",
+    "Untitled.md",
+    "Sbobine IA/2025-11-25.md",
+    "Untitled",
+    "Sbobine IA/2025-11-21.md",
+    "Sbobine Masticate/2025-11-21.md",
+    "Sbobine IA/2025-11-19.md",
     "Sbobine Masticate/2025-11-19.md",
-    "Sbobine Masticate/2025-11-14.md",
-    "Lezioni/2025-11-25.md",
     "draw.io/lez09_07.drawio.svg",
     "Immagini/lez09_03.drawio.svg",
     "Immagini/lez09_06.drawio.svg",
@@ -244,7 +229,6 @@
     "draw.io/lez09_05.drawio",
     "draw.io/lez09_04.drawio",
     "draw.io/lez09_03.drawio",
-    "draw.io/lez09_02.drawio",
-    "draw.io/lez09_01.drawio"
+    "draw.io/lez09_02.drawio"
   ]
 }
