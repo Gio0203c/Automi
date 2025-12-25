@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-12-12.md",
+                "file": "Lezioni/2025-12-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025-12-22"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -185,6 +184,15 @@
   },
   "active": "c929cd32cfa86b5b",
   "lastOpenFiles": [
+    "Lezioni/2025-12-17.md",
+    "Lezioni/2025-12-12.md",
+    "Sbobine Masticate/2025-12-17.md",
+    "Sbobine Masticate/2025-12-22.md",
+    "Sbobine IA/2025-12-22.md",
+    "Sbobine IA/2025-12-17.md",
+    "Immagini/lez10_02.drawio.svg",
+    "Lezioni/2025-12-22.md",
+    "README.md",
     "Lezioni/2025-12-10.md",
     "AT.md",
     "Lezioni/2025-12-05.md",
@@ -207,9 +215,7 @@
     "Sbobine Masticate/2025-10-17.md",
     "Lezioni/2025-11-14.md",
     "Lezioni/2025-11-19.md",
-    "Lezioni/2025-12-12.md",
     "Lezioni/2025-10-10.md",
-    "Lezioni/2025-10-15.md",
     "draw.io/lez11_02.drawio",
     "draw.io/lez11_01.drawio",
     "draw.io/lez10_07.drawio",
@@ -222,14 +228,6 @@
     "draw.io/lez10_06.drawio",
     "Immagini/lez10_04.drawio.svg",
     "draw.io/lez10_04.drawio",
-    "Immagini/lez10_03.drawio.svg",
-    "draw.io/lez10_03.drawio",
-    "Sbobine IA/2025-10-24.md",
-    "Sbobine IA/2025-10-17.md",
-    "Sbobine IA/2025-10-22.md",
-    "Sbobine IA/2025-10-10.md",
-    "Sbobine IA/2025-10-03.md",
-    "Sbobine IA/2025-10-01.md",
-    "Sbobine IA/2025-09-26.md"
+    "draw.io/lez10_03.drawio"
   ]
 }
