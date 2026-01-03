@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-11-12.md",
+                "file": "Lezioni/2025-10-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-12"
+              "title": "2025-10-31"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "espressione regolare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,14 +184,27 @@
   },
   "active": "c929cd32cfa86b5b",
   "lastOpenFiles": [
-    "Lezioni/2025-11-14.md",
+    "Lezioni/2025-10-17.md",
+    "Lezioni/2025-09-24.md",
+    "Lezioni/2025-09-26.md",
     "Lezioni/2025-11-19.md",
-    "Lezioni/2025-11-21.md",
+    "Lezioni/2025-11-14.md",
     "Lezioni/2025-11-12.md",
-    "Lezioni/2025-11-07.md",
     "Lezioni/2025-10-31.md",
-    "Lezioni/2025-10-24.md",
+    "Lezioni/2025-11-26.md",
+    "Lezioni/2025-11-21.md",
+    "Lezioni/2025-12-03.md",
+    "Lezioni/2025-11-07.md",
     "Lezioni/2025-10-22.md",
+    "Lezioni/2025-10-15.md",
+    "Lezioni/2025-10-10.md",
+    "Lezioni/2025-10-08.md",
+    "Lezioni/2025-12-17.md",
+    "Lezioni/2025-12-10.md",
+    "Lezioni/2025-12-12.md",
+    "Lezioni/2025-10-03.md",
+    "Sbobine Masticate/2025-10-03.md",
+    "Lezioni/2025-10-24.md",
     "Immagini/lez13_03.drawio.svg",
     "Lezioni/2025-10-29.md",
     "Immagini/lez10_01.drawio.svg",
@@ -208,22 +221,9 @@
     "draw.io/lez13_04.drawio",
     "draw.io/lez13_02.drawio",
     "draw.io/lez13_01.drawio",
-    "Lezioni/2025-10-15.md",
-    "Lezioni/2025-10-10.md",
-    "Lezioni/2025-10-08.md",
-    "Lezioni/2025-10-03.md",
-    "Lezioni/2025-09-26.md",
-    "Lezioni/2025-09-24.md",
     "Lezioni/2025-12-22.md",
-    "Lezioni/2025-12-17.md",
-    "Lezioni/2025-12-12.md",
     "Sbobine Masticate/2025-12-17.md",
     "Sbobine Masticate/2025-12-22.md",
-    "Sbobine IA/2025-12-22.md",
-    "Sbobine IA/2025-12-17.md",
-    "README.md",
-    "Lezioni/2025-12-10.md",
-    "AT.md",
     "draw.io/lez11_04.drawio",
     "draw.io/lez11_03.drawio",
     "draw.io/lez11_05.drawio",
