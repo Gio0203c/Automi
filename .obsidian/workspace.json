@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,8 @@
   "active": "c929cd32cfa86b5b",
   "lastOpenFiles": [
     "Lezioni/2025-11-26.md",
-    "Lezioni/2025-11-21.md",
     "Lezioni/2025-12-03.md",
+    "Lezioni/2025-11-21.md",
     "Lezioni/2025-11-19.md",
     "Lezioni/2025-11-12.md",
     "Lezioni/2025-12-17.md",
